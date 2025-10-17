@@ -4,4 +4,3 @@ git commit -m "Initial commit for LMS backend"
 https://github.com/bhavishyach-web/lms-backend-.git
 git branch -M main
 git remote add origin https://github.com/<your-username>/lms-backend.git
-git push -u origin main
